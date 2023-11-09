@@ -1,0 +1,27 @@
+body{
+    background: rgb(219, 236, 231);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1 {
+    text-align: center;
+    color: rgb(6, 98, 121);
+}
+p {
+    text-align: center;
+    font-size: 15px;
+}
+.links {
+    text-align: center;
+    line-height: 50px;
+    letter-spacing: 2px;
+    
+}
+.links a {
+    color: rgb(124, 13, 228);
+    margin: 5px;
+}
+.image {
+    display: block;
+    text-align: center;
+
+}
